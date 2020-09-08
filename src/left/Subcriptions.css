@@ -1,0 +1,20 @@
+.Subs{
+    display : flex;
+    color: red;
+
+}
+.img{
+    width: 18px;
+    height: 18px;
+    border-radius:100%;
+    margin-top: 5px
+}
+.red{
+    color: red;
+}
+.ml-10{
+    margin-left:10px
+}
+.blue{
+    color:#41a4eb;
+}

@@ -1,0 +1,12 @@
+.img{
+    border-radius:5px;
+}
+.TopRight{
+    display:flex;
+}
+mr-10{
+    margin-right: 10px;
+}
+pdt-10{
+    padding-top: 10px;
+}
